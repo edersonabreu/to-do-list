@@ -1,27 +1,31 @@
-# ToDoList
+# ToDoList com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+Este projeto foi feito com angular na versão 15.2.4.
 
-## Development server
+## IMPORTANTE
+Ao efetuar o download do projeto, utilize o comando 'npm install' para instalar todas as dependências do angular. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Para rodar o projeto
 
-## Code scaffolding
+Utilize o comando `ng serve` para dar start na aplicação. Use o link `http://localhost:4200/` para ter acesso a página.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## PRINTS 
 
-## Build
+Aqui estão algumas capturas de tela deste projeto criado apenas para aprendizado da estrutura do angular. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### TELA INICIAL
 
-## Running unit tests
+![to-to-list-1](https://user-images.githubusercontent.com/29956737/228282302-27221b83-6f2f-4b7b-ac7e-7d3c64cc3f6b.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### TELA DE INSERÇÃO 
 
-## Running end-to-end tests
+![to-to-list-2](https://user-images.githubusercontent.com/29956737/228282307-5cce6297-ddfe-48d8-9c66-060f85c3450f.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### TELA DE EXCLUSÃO
 
-## Further help
+![to-to-list-3](https://user-images.githubusercontent.com/29956737/228282311-171b46e8-06bd-4233-85d8-d15d9652b669.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### TELA FINAL 
+
+![to-to-list-4](https://user-images.githubusercontent.com/29956737/228282314-72e967e2-916f-4ff0-b612-16fc609ca5b2.png)
+
