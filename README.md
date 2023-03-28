@@ -3,7 +3,7 @@
 Este projeto foi feito com angular na versão 15.2.4.
 
 ## IMPORTANTE
-Ao efetuar o download do projeto, utilize o comando 'npm install' para instalar todas as dependências do angular. 
+Ao efetuar o download do projeto, utilize o comando `npm install` para instalar todas as dependências do angular. 
 
 ## Para rodar o projeto
 
